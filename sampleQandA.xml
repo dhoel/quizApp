@@ -1,0 +1,103 @@
+<!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Solar System Moons</string>
+
+    <!-- Text for the Start Quiz button. [CHAR LIMIT=12] -->
+    <string name="start">Start Quiz</string>
+
+    <!-- Question One -->
+    <!-- Text for the first question. [CHAR LIMIT=50] -->
+    <string name="question_one">Moons bigger than planet Mercury?</string>
+
+    <!-- Text for question 1, choice 1. [CHAR LIMIT=50] -->
+    <string name="q_one_choice_1">Callisto</string>
+
+    <!-- Text for question 1, choice 2. [CHAR LIMIT=50] -->
+    <string name="q_one_choice_2">Titan</string>
+
+    <!-- Text for question 1, choice 3. [CHAR LIMIT=50] -->
+    <string name="q_one_choice_3">Io</string>
+
+    <!-- Text for question 1, choice 4. [CHAR LIMIT=50] -->
+    <string name="q_one_choice_4">Ganymede</string>
+
+    <!-- Question Two -->
+    <!-- Text for the second question. [CHAR LIMIT=50] -->
+    <string name="question_two">Moon more volcanically active than Earth?</string>
+
+    <!-- Text for question 2, choice 1. [CHAR LIMIT=50] -->
+    <string name="q_two_choice_1">Mimas</string>
+
+    <!-- Text for question 2, choice 2. [CHAR LIMIT=50] -->
+    <string name="q_two_choice_2">Io</string>
+
+    <!-- Text for question 2, choice 3. [CHAR LIMIT=50] -->
+    <string name="q_two_choice_3">Triton</string>
+
+    <!-- Text for question 2, choice 4. [CHAR LIMIT=50] -->
+    <string name="q_two_choice_4">Europa</string>
+
+    <!-- Question Three -->
+    <!-- Text for the third question. [CHAR LIMIT=50] -->
+    <string name="question_three">Name of Pluto\'s largest moon?</string>
+
+    <!-- Text for question 3 hint. [CHAR LIMIT=15] -->
+    <string name="question_three_hint">A ferryman</string>
+
+    <!-- Question Four -->
+    <!-- Text for the forth question. [CHAR LIMIT=50] -->
+    <string name="question_four">Moon with a denser atmosphere than Earth?</string>
+
+    <!-- Text for question 4, choice 1. [CHAR LIMIT=50] -->
+    <string name="q_four_choice_1">Titania</string>
+
+    <!-- Text for question 4, choice 2. [CHAR LIMIT=50] -->
+    <string name="q_four_choice_2">Europa</string>
+
+    <!-- Text for question 4, choice 3. [CHAR LIMIT=50] -->
+    <string name="q_four_choice_3">Callisto</string>
+
+    <!-- Text for question 4, choice 4. [CHAR LIMIT=50] -->
+    <string name="q_four_choice_4">Titan</string>
+
+    <!-- Question Five -->
+    <!-- Text for the fifth question. [CHAR LIMIT=50] -->
+    <string name="question_five">Planets that have no moon?</string>
+
+    <!-- Text for question 5, choice 1. [CHAR LIMIT=50] -->
+    <string name="q_five_choice_1">Mercury</string>
+
+    <!-- Text for question 5, choice 2. [CHAR LIMIT=50] -->
+    <string name="q_five_choice_2">Venus</string>
+
+    <!-- Text for question 5, choice 3. [CHAR LIMIT=50] -->
+    <string name="q_five_choice_3">Mars</string>
+
+    <!-- Text for question 5, choice 4. [CHAR LIMIT=50] -->
+    <string name="q_five_choice_4">Neptune</string>
+
+    <!-- Question Six -->
+    <!-- Text for the sixth question. [CHAR LIMIT=50] -->
+    <string name="question_six">Number of moons orbiting Uranus?</string>
+
+    <!-- Text for question 6, choice 1. [CHAR LIMIT=50] -->
+    <string name="q_six_choice_1">7</string>
+
+    <!-- Text for question 6, choice 2. [CHAR LIMIT=50] -->
+    <string name="q_six_choice_2">3</string>
+
+    <!-- Text for question 6, choice 3. [CHAR LIMIT=50] -->
+    <string name="q_six_choice_3">27</string>
+
+    <!-- Text for question 6, choice 4. [CHAR LIMIT=50] -->
+    <string name="q_six_choice_4">16</string>
+
+    <!-- Question Seven -->
+    <!-- Text for the seventh question. [CHAR LIMIT=50] -->
+    <string name="question_seven">Only large moon with a retrograde orbit?</string>
+
+    <!-- Text for question 7 hint. [CHAR LIMIT=20] -->
+    <string name="question_seven_hint">Son of Poseidon</string>
+
+    <!-- Submit Button -->
+    <!-- Text for Submit button. [CHAR LIMIT=20] -->
+    <string name="submit">Submit</string>
